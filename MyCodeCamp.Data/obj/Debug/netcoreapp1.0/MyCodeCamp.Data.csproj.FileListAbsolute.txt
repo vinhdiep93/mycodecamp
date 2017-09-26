@@ -1,0 +1,11 @@
+E:\Research\MyCodeCamp\MyCodeCamp.Data\bin\Debug\netcoreapp1.0\MyCodeCamp.Data.deps.json
+E:\Research\MyCodeCamp\MyCodeCamp.Data\bin\Debug\netcoreapp1.0\MyCodeCamp.Data.runtimeconfig.json
+E:\Research\MyCodeCamp\MyCodeCamp.Data\bin\Debug\netcoreapp1.0\MyCodeCamp.Data.runtimeconfig.dev.json
+E:\Research\MyCodeCamp\MyCodeCamp.Data\bin\Debug\netcoreapp1.0\MyCodeCamp.Data.dll
+E:\Research\MyCodeCamp\MyCodeCamp.Data\bin\Debug\netcoreapp1.0\MyCodeCamp.Data.pdb
+E:\Research\MyCodeCamp\MyCodeCamp.Data\obj\Debug\netcoreapp1.0\MyCodeCamp.Data.csproj.CoreCompileInputs.cache
+E:\Research\MyCodeCamp\MyCodeCamp.Data\obj\Debug\netcoreapp1.0\MyCodeCamp.Data.AssemblyInfoInputs.cache
+E:\Research\MyCodeCamp\MyCodeCamp.Data\obj\Debug\netcoreapp1.0\MyCodeCamp.Data.AssemblyInfo.cs
+E:\Research\MyCodeCamp\MyCodeCamp.Data\obj\Debug\netcoreapp1.0\MyCodeCamp.Data.dll
+E:\Research\MyCodeCamp\MyCodeCamp.Data\obj\Debug\netcoreapp1.0\MyCodeCamp.Data.pdb
+E:\Research\MyCodeCamp\MyCodeCamp.Data\obj\Debug\netcoreapp1.0\MyCodeCamp.Data.csprojResolveAssemblyReference.cache
